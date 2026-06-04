@@ -2,7 +2,7 @@
 
 A Cowork-native agent that produces a branded, McKinsey-style PDF intelligence brief every Sunday, analyzing competitor YouTube activity in a niche real estate vertical. Delivered via Gmail draft for human review, archived automatically to Google Drive, and announced through a Google Calendar event so the operator knows the brief is ready to review and send.
 
-> **Client context (anonymized).** A boutique cross-border real estate consultancy helping European investors (€100K–€1M capital band) evaluate Brazilian real estate opportunities. The founder is a sole content creator on YouTube, competing against better-resourced channels — the brief helps him see market moves fast and film the right video each week.
+> **Client context (anonymized).** A boutique cross-border real estate consultancy helping European investors evaluate Brazilian real estate opportunities. The founder is a sole content creator on YouTube, competing against better-resourced channels — the brief helps him see market moves fast and film the right video each week.
 TThe Automation compresses ~2 hours of raw video on Youtube  into a 10-minute intelligence PDF report, 
 delivered every week without manual intervention.
 
