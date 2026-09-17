@@ -2,7 +2,7 @@
 
 This agent replaced 4–6 hours of weekly manual competitor research with an automated, consulting-grade PDF brief delivered every Sunday. After adoption, the client's first data-driven video reached 8× his average view count and the channel grew 70% in new subscribers.
 
-> **Client context (anonymized).** A real estate consultancy helping European investors evaluate Brazilian opportunities. The founder is a solo YouTube creator competing against better-resourced channels — he needed a way to see what competitors were publishing, spot topic gaps, and decide what to film next, without spending half his Sunday doing it manually.
+> **Client context (anonymized).** A consultancy helping European investors evaluate real estate and investment opportunities in Brazil. The founder runs the company's YouTube channel as a strategic growth lever — but needed a way to track what competitors were publishing, spot topic gaps, and decide what to film next, without spending half a Sunday doing it manually.
 
 **What the agent does.** Monitors 10+ competitor YouTube channels weekly — videos, transcripts, and top comments — then scores 10 filmable content opportunities ranked by topic gap, audience demand, and competitive saturation. Delivered as a branded 14-page PDF via Gmail draft, archived to Google Drive, with a Calendar event so the brief never goes unread.
 
